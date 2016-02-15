@@ -4,7 +4,7 @@
 ```
 Usage: java Searcher <index dir> <query>
 ```
-You should indicate index and data directory.
+You should input **index directory** and **query**.
 
 ```
 <index dir> : /Indexer/result
