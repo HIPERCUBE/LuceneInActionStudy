@@ -63,7 +63,7 @@ class Searcher {
 
         for (ScoreDoc scoreDoc : hits.scoreDocs) {
             Document doc = is.doc scoreDoc.doc
-            println doc.get "fullpath"
+            println doc.get("fullpath")
         }
         is.close()
     }
