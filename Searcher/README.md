@@ -8,7 +8,7 @@ You should input **index directory** and **query**.
 
 ```
 <index dir> : /Indexer/result
-<query>  : patent
+<query>     : patent
 ```
 
 ## Query Example
