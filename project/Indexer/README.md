@@ -1,11 +1,11 @@
 # Indexer
 
 ## Version Argument
-Lucene use Version value since 2.9 version.
+Lucene use **Version** since 2.9 version.
 
-Version class has LUCENE_24 or LUCENE_29 etc version as enum.
+**Version** class has **LUCENE_24**, **LUCENE_29** etc as an enum.
 
-This Indexer program use Lucene_30.
+This **Indexer** use **Lucene_30**.
 
 
 ## Start Indexer
